@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Inter:wght@400;500;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+:root { font-family: 'Inter', sans-serif; color-scheme: dark; background: #050505; }
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; overflow-x: hidden; background: #050505; }
+* { box-sizing: border-box; }
+::selection { background: #d4af37; color: #050505; }
